@@ -1,0 +1,6 @@
+{
+  "name": "کلینیک زیبایی لومیِر | Lumière VIP Clinic",
+  "description": "کلینیک فوق‌تخصصی زیبایی، پوست و جوانسازی لومیِر؛ هنر زیبایی ماندگار با خدمات اختصاصی و پزشکان بورد تخصصی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
